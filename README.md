@@ -75,6 +75,8 @@ This project is open and free. I’m happy to:
 
 
 
+This solution is released under Creative Commons BY-NC 4.0. Please credit Felix Stiefel when using.
+
 ---
 
 ## 📌 About Me

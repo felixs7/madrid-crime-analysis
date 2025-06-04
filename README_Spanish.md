@@ -73,6 +73,10 @@ Este proyecto es completamente abierto y gratuito. Estoy encantado de:
 ### Panel Interactivo  
 ![Tendencia Mensual](images/Madrid_Crime_Dashboard.png)
 
+
+
+Esta solución se publica bajo la licencia Creative Commons BY-NC 4.0. Por favor, acredita a Felix Stiefel al utilizarla.
+
 ---
 
 ## 📌 Sobre Mí
